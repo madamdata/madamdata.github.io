@@ -1,0 +1,53 @@
+<html>
+
+	<head>
+	<title> madamdatasoundlabs - audio repair, consultancy, witchcraft</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="mdslstyle.css">
+	<link rel="icon" href="icon.ico">
+	</head>
+	<body>
+
+	<ul class="navbar">
+		<li class="navbarli"> <a href="#projects">projects</a></li>
+		<li class="navbarli"> <a href="#services">services</a></li>
+		<li class="navbarli"> <a href="#contact">contact</a></li>
+		<li class="navbarli"> <a href="index.html">home</a></li>
+	</ul>
+	<div class="mainTextBlock">
+		<p>this is the website of <h2><b>madamdatasoundlabs</b></h2> an (audio equipment repair, restoration and care service), <br>
+		(synth and software workshop),<br>
+		(art & technology consultancy), <br> 
+		and (traveling computer exorcism provider). <br><br>
+		If you need your "<b>stuff"</b> <br> 
+		<p class="indent"> {<b>stuff</b>} [guitar effects, synths, relationship to technology, cables, amps, other sound making electronics, computers] </p>
+		fixed or cared for, I can help you with that. 
+	</p>
+	<br>
+
+	<a class="anchor" name="contact"></a>
+	<p class="tab2">  <h3>how to get in touch</h3> </p>
+	<p> email: madamdatasoundlabs@gmail.com <br>
+	<a href="https://www.instagram.com/madamdatasoundlabs/">instagram</a>: @madamdatasoundlabs <br>
+	<a href="https://twitter.com/madamdata">twitter</a>: @madamdata <br>
+	</p>
+
+
+	<a class="anchor" name="services"></a>
+	<p class="tab2">  <h3>services</h3> </p>
+	<p> <b>repair</b>: guitar pedals, synths, amps - if it makes sound I can at least take a look at it. Fee: depends on the job - on average $25-$30 for simple fixes, $50-$100 for more elaborate things. Email for a quote, we can probably work something out. Discounts for b/i/poc. <br><br>
+	<b>computer services</b>- I can help you sort out problems with your computer - viruses, slow performance, how to do x or y. Fee: $25-$50 depending on what needs to be done. <br><br>
+	<b>art and technology consultancy</b> - Need to integrate arduinos, raspberry pis, and DIY electronic circuits into your art project or installation? I can help you develop tech solutions and debug problems. $40/hr.<br><br>
+
+	
+	<a class="anchor" name="reviews"></a>
+	<p class="tab2"><h3>reviews</h3> </p>
+	<p> "Madam data helped me troubleshoot issues with my audio interface and repaired a vintage microphone that I had found in a pile of trash. In both cases they succeeded in fixing my devices and I even think I learned something."
+	</p>
+	<p> "Madam Data quickly and affordably repaired power issues on not one, not two, but three very different pieces of beloved vintage gear. I can once again use my Casio CZ-101 (1984), my Casiotone 403 (early 80s), and my Gibson fuzz pedal (early 60s) onstage and worry-free. So grateful to have these instruments working again!"
+	</p>
+
+	</div>
+	</body>
+</html>
+
