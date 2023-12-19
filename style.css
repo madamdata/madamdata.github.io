@@ -15,6 +15,11 @@ body {
 		max-width: 95%;
 		text-align: left;
 	}
+	pre {
+		white-space: pre-wrap;
+		font-family: "Courier New";
+
+	}
 	a.anchor {
 		display: block;
 		position: relative;
@@ -28,13 +33,19 @@ body {
 /*COMPUTER SCREENS*/
 @media only screen and (min-width: 700px){
 	div.mainTextBlock {
-		margin-left: 35px;
+		margin-left: 45px;
 		margin-top: 65px;
 		font-size: 20px;
 		letter-spacing: 0px;
-		max-width: 75%;
+		/*max-width: 75%;*/
+		max-width: 85%;
 		/*text-align: justify;*/
 		text-align: center;
+	}
+	pre {
+		/*margin-left: 35px;*/
+		white-space: pre-wrap;
+		font-family: "Courier New";
 	}
 	a.anchor {
 		display: block;
@@ -54,8 +65,21 @@ h3 {
 	font-family: "Verdana";
 }
 
+/*h4 {*/
+	/*color: #f595a9;*/
+	/*font-size: 22px;*/
+	/*font-weight: lighter;*/
+	/*font-family: "Verdana";*/
+/*}*/
+
 a {
 	color: #f4cbcb;
+}
+a.inline {
+	color: #f4cbcb;
+	font-size: 22px;
+	font-weight: bold;
+	font-family: "Courier New";
 }
 
 ul.navbar {
@@ -81,3 +105,12 @@ li a {
 	color: #FFFFFF;
 }
 
+pre {
+/*white-space: pre-line;*/
+}
+pre.left_justify {
+text-align: left;
+}
+pre.centre_justify {
+text-align: center;
+}
